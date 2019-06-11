@@ -1,0 +1,23 @@
+{
+	
+		"URL"						: "http://demo.guru99.com/insurance/v1/register.php",
+		"PreConditionBrowserTitle"	: "Insurance Broker System - Register",
+		"PostConditionBrowserTitle"	: "Insurance Broker System - Login",
+		"Title"						: "Mr",
+		"First name"				: "Ishanka",
+		"Surname"					: "Wijerathne",
+		"Phone"						: "+94715181786",
+		"Year"						: "1986",
+		"Month"						: "November",
+		"Date"						: "30",
+		"licencetype"				: "Provisional",
+		"LicencePeriod"  			: "10",
+		"Occupation"				: "Architect",
+		"Address_Street"			: "Mahawatta Rd",
+		"Address_City"				: "Kaduwela",
+		"Address_County"			: "Sri Lanka",
+		"Postcode"					: "10640",
+		"Email"						: "ishankathus@gmail.com",
+		"Password"					: "Welcome@123",
+		"Confirmpassword"			: "Welcome@123"
+}

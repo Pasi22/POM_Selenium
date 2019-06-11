@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-10-13T17:44:32Z" name="Suite" finished-at="2018-10-13T17:45:21Z" duration-ms="48765">
+    <groups>
+    </groups>
+    <test started-at="2018-10-13T17:44:32Z" name="Test" finished-at="2018-10-13T17:45:21Z" duration-ms="48765">
+      <class name="test.FormFiller_XML">
+        <test-method is-config="true" signature="Pre_Condition()[pri:0, instance:test.FormFiller_XML@40de8f93]" started-at="2018-10-13T17:45:06Z" name="Pre_Condition" finished-at="2018-10-13T17:45:17Z" duration-ms="11631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Pre_Condition -->
+        <test-method signature="SignUpUserForm_guru99insurance()[pri:0, instance:test.FormFiller_XML@40de8f93]" started-at="2018-10-13T17:45:17Z" name="SignUpUserForm_guru99insurance" finished-at="2018-10-13T17:45:17Z" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUpUserForm_guru99insurance -->
+      </class> <!-- test.FormFiller_XML -->
+      <class name="test.FormFiller_Excel">
+        <test-method is-config="true" signature="PreCondition()[pri:0, instance:test.FormFiller_Excel@7134b8a7]" started-at="2018-10-13T17:44:32Z" name="PreCondition" finished-at="2018-10-13T17:44:46Z" duration-ms="13742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PreCondition -->
+        <test-method signature="SignUpUserForm_guru99insurance()[pri:0, instance:test.FormFiller_Excel@7134b8a7]" started-at="2018-10-13T17:44:46Z" name="SignUpUserForm_guru99insurance" finished-at="2018-10-13T17:44:55Z" duration-ms="9105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUpUserForm_guru99insurance -->
+        <test-method is-config="true" signature="PostCondition()[pri:0, instance:test.FormFiller_Excel@7134b8a7]" started-at="2018-10-13T17:45:17Z" name="PostCondition" finished-at="2018-10-13T17:45:18Z" duration-ms="1083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostCondition -->
+        <test-method is-config="true" signature="Post_Condition()[pri:0, instance:test.FormFiller_Json@2262d6d5]" started-at="2018-10-13T17:45:18Z" name="Post_Condition" finished-at="2018-10-13T17:45:20Z" duration-ms="1155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Post_Condition -->
+        <test-method is-config="true" signature="Post_Condition()[pri:0, instance:test.FormFiller_XML@40de8f93]" started-at="2018-10-13T17:45:20Z" name="Post_Condition" finished-at="2018-10-13T17:45:21Z" duration-ms="1251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Post_Condition -->
+      </class> <!-- test.FormFiller_Excel -->
+      <class name="test.FormFiller_Json">
+        <test-method is-config="true" signature="Pre_Condition()[pri:0, instance:test.FormFiller_Json@2262d6d5]" started-at="2018-10-13T17:44:55Z" name="Pre_Condition" finished-at="2018-10-13T17:45:06Z" duration-ms="10644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Pre_Condition -->
+        <test-method signature="SignUpUserForm_guru99insurance()[pri:0, instance:test.FormFiller_Json@2262d6d5]" started-at="2018-10-13T17:45:06Z" name="SignUpUserForm_guru99insurance" finished-at="2018-10-13T17:45:06Z" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUpUserForm_guru99insurance -->
+      </class> <!-- test.FormFiller_Json -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
